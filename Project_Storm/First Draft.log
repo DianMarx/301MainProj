@@ -1,7 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  28 APR 2015 14:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  28 APR 2015 23:11
 entering extended mode
-**C:/Users/Shaun/Desktop/COS-301/301MainProj/Project_Storm/First*Draft.tex
-("C:/Users/Shaun/Desktop/COS-301/301MainProj/Project_Storm/First Draft.tex"
+**C:/Users/RONNIE/Desktop/TUKS/COS*301/Main*Proj/301MainProj/Project_Storm/Firs
+t*Draft.tex
+
+("C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Project_Storm/Firs
+t Draft.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -177,7 +180,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Users\Shaun\Desktop\COS-301\301MainProj\Project_Storm\First Draft.aux")
+("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Project_Storm\Firs
+t Draft.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -192,8 +196,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count98
 \scratchdimen=\dimen109
@@ -221,11 +224,12 @@ LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
 LaTeX Info: Redefining \nameref on input line 7.
 
-("C:\Users\Shaun\Desktop\COS-301\301MainProj\Project_Storm\First Draft.out")
-("C:\Users\Shaun\Desktop\COS-301\301MainProj\Project_Storm\First Draft.out")
+("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Project_Storm\Firs
+t Draft.out")
+("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Project_Storm\Firs
+t Draft.out")
 \@outlinefile=\write3
-
-<../Images/example1.jpg, id=35, 411.5375pt x 197.73875pt>
+ <../Images/example1.jpg, id=35, 411.5375pt x 197.73875pt>
 File: ../Images/example1.jpg Graphic file (type jpg)
 
 <use ../Images/example1.jpg>
@@ -244,70 +248,75 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 34.
 [1
 
-{C:/Users/Shaun/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Sh
-aun/Desktop/COS-301/301MainProj/Images/example1.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/RONNIE/Desktop/T
+UKS/COS 301/Main Proj/301MainProj/Images/example1.jpg>]
+<../Images/Renaldo.jpg, id=43, 643.40375pt x 963.6pt>
+File: ../Images/Renaldo.jpg Graphic file (type jpg)
+
+<use ../Images/Renaldo.jpg>
+Package pdftex.def Info: ../Images/Renaldo.jpg used on input line 45.
+(pdftex.def)             Requested size: 64.34413pt x 96.36565pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
 
-<../Images/example.jpg, id=43, 1156.32pt x 650.43pt>
+<../Images/example.jpg, id=44, 1156.32pt x 650.43pt>
 File: ../Images/example.jpg Graphic file (type jpg)
 
 <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 45.
-(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
-File: ../Images/example.jpg Graphic file (type jpg)
- <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 60.
+Package pdftex.def Info: ../Images/example.jpg used on input line 62.
 (pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
  [2
 
- <C:/Users/Shaun/Desktop/COS-301/301MainProj/Images/example.jpg>]
+ <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/Renaldo.jpg
+> <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/example.jp
+g>]
 File: ../Images/example.jpg Graphic file (type jpg)
  <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 75.
+Package pdftex.def Info: ../Images/example.jpg used on input line 77.
 (pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
 File: ../Images/example.jpg Graphic file (type jpg)
 
 <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 90.
+Package pdftex.def Info: ../Images/example.jpg used on input line 92.
 (pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
  [3]
 File: ../Images/example.jpg Graphic file (type jpg)
  <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 105.
+Package pdftex.def Info: ../Images/example.jpg used on input line 107.
 (pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
  [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
 
-("C:\Users\Shaun\Desktop\COS-301\301MainProj\Project_Storm\First Draft.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Project_Storm\Firs
+t Draft.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `First*Draft.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 4998 strings out of 493921
- 74395 string characters out of 3147282
+ 5003 strings out of 493921
+ 74685 string characters out of 3147279
  151826 words of memory out of 3000000
- 8262 multiletter control sequences out of 15000+200000
+ 8266 multiletter control sequences out of 15000+200000
  7587 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,7n,28p,301b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,28p,422b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "First Draft.pdf" (5 pages, 490945 bytes).
+Output written on "First Draft.pdf" (5 pages, 548461 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
