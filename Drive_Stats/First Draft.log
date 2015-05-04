@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  3 MAY 2015 08:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  4 MAY 2015 23:43
 entering extended mode
 **C:/Users/RONNIE/Desktop/TUKS/COS*301/Main*Proj/301MainProj/Drive_Stats/First*
 Draft.tex
@@ -229,14 +229,14 @@ Draft.out")
 ("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Drive_Stats\First 
 Draft.out")
 \@outlinefile=\write3
- <../Images/example1.jpg, id=35, 411.5375pt x 197.73875pt>
+ <../Images/example1.jpg, id=35, 5331.92pt x 2999.205pt>
 File: ../Images/example1.jpg Graphic file (type jpg)
 
 <use ../Images/example1.jpg>
 Package pdftex.def Info: ../Images/example1.jpg used on input line 30.
-(pdftex.def)             Requested size: 370.38033pt x 177.96323pt.
+(pdftex.def)             Requested size: 373.27254pt x 209.9658pt.
 
-Overfull \hbox (19.3827pt too wide) in paragraph at lines 28--31
+Overfull \hbox (22.27492pt too wide) in paragraph at lines 28--31
  [] 
  []
 
@@ -311,73 +311,118 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-<../Images/example.jpg, id=51, 1156.32pt x 650.43pt>
-File: ../Images/example.jpg Graphic file (type jpg)
+<../Images/Dian.jpg, id=51, 542.025pt x 722.7pt>
+File: ../Images/Dian.jpg Graphic file (type jpg)
+ <use ../Images/Dian.jpg>
+Package pdftex.def Info: ../Images/Dian.jpg used on input line 83.
+(pdftex.def)             Requested size: 54.20567pt x 72.27423pt.
 
-<use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 83.
-(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
- [3]
-File: ../Images/example.jpg Graphic file (type jpg)
- <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 98.
-(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-[4 <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/example.j
-pg>]
-Underfull \hbox (badness 10000) in paragraph at lines 113--119
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--108
 
  []
 
+[4 <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/Dian.jpg>
+] <../Images/example.jpg, id=61, 1156.32pt x 650.43pt>
 File: ../Images/example.jpg Graphic file (type jpg)
+
 <use ../Images/example.jpg>
-Package pdftex.def Info: ../Images/example.jpg used on input line 130.
+Package pdftex.def Info: ../Images/example.jpg used on input line 134.
 (pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
  [5]
-<../Images/Shaun.jpg, id=67, 963.6pt x 962.59625pt>
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
+
+ []
+
+[6 <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/example.j
+pg>] <../Images/Andreas.jpg, id=71, 722.7pt x 808.52063pt>
+File: ../Images/Andreas.jpg Graphic file (type jpg)
+
+<use ../Images/Andreas.jpg>
+Package pdftex.def Info: ../Images/Andreas.jpg used on input line 166.
+(pdftex.def)             Requested size: 72.27423pt x 80.8568pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+[7 <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/Andreas.j
+pg>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+<../Images/Shaun.jpg, id=78, 963.6pt x 962.59625pt>
 File: ../Images/Shaun.jpg Graphic file (type jpg)
  <use ../Images/Shaun.jpg>
-Package pdftex.def Info: ../Images/Shaun.jpg used on input line 144.
+Package pdftex.def Info: ../Images/Shaun.jpg used on input line 197.
 (pdftex.def)             Requested size: 96.36565pt x 96.26526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
-[6 <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/Shaun.jpg
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--217
+
+ []
+
+[9 <C:/Users/RONNIE/Desktop/TUKS/COS 301/Main Proj/301MainProj/Images/Shaun.jpg
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 155--164
-
- []
-
-
-Overfull \hbox (7.34166pt too wide) in paragraph at lines 169--171
+Overfull \hbox (7.34166pt too wide) in paragraph at lines 222--224
 \OT1/cmr/m/n/12 project has a mix-ture of mobile- de-vel-op-ment and web-develo
 pment.
  []
 
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+[10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
 
 ("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Drive_Stats\First 
 Draft.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
 Package rerunfilecheck Info: File `First*Draft.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 5012 strings out of 493921
- 74800 string characters out of 3147279
+ 5025 strings out of 493921
+ 75033 string characters out of 3147279
  152826 words of memory out of 3000000
- 8271 multiletter control sequences out of 15000+200000
+ 8279 multiletter control sequences out of 15000+200000
  7894 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,7n,28p,655b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -385,9 +430,9 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "First Draft.pdf" (8 pages, 701950 bytes).
+Output written on "First Draft.pdf" (11 pages, 7202164 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
