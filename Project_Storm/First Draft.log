@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  4 MAY 2015 21:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  4 MAY 2015 22:01
 entering extended mode
 **C:/Users/RONNIE/Desktop/TUKS/COS*301/Main*Proj/301MainProj/Project_Storm/Firs
 t*Draft.tex
@@ -229,14 +229,14 @@ t Draft.out")
 ("C:\Users\RONNIE\Desktop\TUKS\COS 301\Main Proj\301MainProj\Project_Storm\Firs
 t Draft.out")
 \@outlinefile=\write3
- <../Images/example1.jpg, id=35, 411.5375pt x 197.73875pt>
+ <../Images/example1.jpg, id=35, 5331.92pt x 2999.205pt>
 File: ../Images/example1.jpg Graphic file (type jpg)
 
 <use ../Images/example1.jpg>
 Package pdftex.def Info: ../Images/example1.jpg used on input line 30.
-(pdftex.def)             Requested size: 370.38033pt x 177.96323pt.
+(pdftex.def)             Requested size: 373.27254pt x 209.9658pt.
 
-Overfull \hbox (19.3827pt too wide) in paragraph at lines 28--31
+Overfull \hbox (22.27492pt too wide) in paragraph at lines 28--31
  [] 
  []
 
@@ -537,7 +537,7 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "First Draft.pdf" (10 pages, 913511 bytes).
+Output written on "First Draft.pdf" (10 pages, 7093898 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
